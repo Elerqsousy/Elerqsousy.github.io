@@ -85,7 +85,7 @@ const NavBar = () => {
               <GithubIcon />
             </motion.a>
             <motion.a
-              href='https://www.linkedin.com/in/mahmoud-rizk-elerqsousy/'
+              href='https://www.linkedin.com/in/mahmoud-abdulhaleem/'
               target='_blank'
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.9 }}
@@ -128,7 +128,7 @@ const NavBar = () => {
           <GithubIcon />
         </motion.a>
         <motion.a
-          href='https://www.linkedin.com/in/mahmoud-rizk-elerqsousy/'
+          href='https://www.linkedin.com/in/mahmoud-abdulhaleem/'
           target='_blank'
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
