@@ -19,7 +19,7 @@ const Footer = () => {
           <Link
             className='underline underline-offset-2 hover:opacity-75'
             target={'_blank'}
-            href='https://www.linkedin.com/in/mahmoud-rizk-elerqsousy/'
+            href='https://www.linkedin.com/in/mahmoud-abdulhaleem/'
           >
             Riz
           </Link>
