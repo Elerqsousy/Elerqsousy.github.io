@@ -4,8 +4,8 @@ import Head from 'next/head';
 import Layout from '@/conponents/Layout';
 import AnimatedText from '@/conponents/AnimatedText';
 import TransitionEffect from '@/conponents/TransitionEffect';
-import projectData from '@/conponents/projects_data';
 import ProjectItem from '@/conponents/ProjectItem';
+import projectData from '@/conponents/projects_data';
 
 const projects = () => {
   return (
