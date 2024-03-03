@@ -5,7 +5,7 @@ import Layout from '@/conponents/Layout';
 import AnimatedText from '@/conponents/AnimatedText';
 import TransitionEffect from '@/conponents/TransitionEffect';
 import ProjectItem from '@/conponents/ProjectItem';
-import projectData from '@/conponents/projects_data';
+import projectData from '@/conponents/ProjectsData';
 
 const projects = () => {
   return (

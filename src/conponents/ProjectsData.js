@@ -15,7 +15,7 @@ const projectData = [
     title: 'Grandeur',
     summary:
       'A sophisticated Real Estate platform designed to seamlessly connect buyers and sellers, streamlining the process of booking check-up visits to captivating properties.',
-    type: 'React on Rails Project',
+    type: 'Ruby on Rails & React Project',
     link: 'https://grandeur-tx4o.onrender.com/',
     github: 'https://github.com/Elerqsousy/grandeur-backend',
     img: project1,
@@ -26,7 +26,7 @@ const projectData = [
       'Redux',
       'Typescript',
       'Bootstrap',
-      'Tailwind CSS',
+      'TailwindCSS',
     ],
   },
   {
@@ -43,7 +43,7 @@ const projectData = [
     title: 'Expensable',
     summary:
       'A Mobile-based Web Application for expense categorization and tracking. It helps users to keep track of their expenses and incomes, and to manage their budgets.',
-    type: 'Rails Project',
+    type: 'Ruby on Rails Project',
     link: 'https://expensable.onrender.com/',
     github: 'https://github.com/Elerqsousy/ror_fintech',
     small: true,
@@ -75,7 +75,7 @@ const projectData = [
     title: 'The Musical',
     summary:
       "An imaginary musical yearly event that features event details and star singers. It's built with a responsive design.",
-    type: 'Js Project',
+    type: 'JavaScript Project',
     link: 'https://elerqsousy.github.io/musical-concert-page/',
     github: 'https://github.com/Elerqsousy/musical-concert-page',
     small: true,
@@ -86,7 +86,7 @@ const projectData = [
     title: 'To Do List',
     summary:
       'A simple To Do List online application that allows users to save, and manipulate their to-dos, and save their list when application is closed.',
-    type: 'Js Project',
+    type: 'JavaScript Project',
     link: 'https://elerqsousy.github.io/to-do-list/',
     github: 'https://github.com/Elerqsousy/to-do-list',
     small: true,
@@ -108,7 +108,7 @@ const projectData = [
     title: 'Game LeaderShip Board',
     summary:
       'A simple design for a leaderboard list. All data are stored on Leaderboard API. Upon page load, List of scores get updated from the API. Upon submitting names and scores, names are added to the list of game scores on the API. Upon clicking refresh, list of names are updated and displayed.',
-    type: 'Js Project',
+    type: 'JavaScript Project',
     link: 'https://elerqsousy.github.io/leaderboard-api',
     github: 'https://github.com/Elerqsousy/leaderboard-api',
     small: true,
