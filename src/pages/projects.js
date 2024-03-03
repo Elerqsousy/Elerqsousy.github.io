@@ -30,6 +30,7 @@ const projects = () => {
                 className={
                   !item.small ? 'col-span-12' : 'col-span-6 sm:col-span-12'
                 }
+                key={item.title + item.type}
               >
                 <ProjectItem {...item} />
               </div>
