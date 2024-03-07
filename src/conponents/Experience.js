@@ -79,8 +79,7 @@ const Experience = () => {
           />
           <Details
             position='Front-End Web Developer'
-            company='Sifi'
-            companyLink='https://www.sifi.app/'
+            company='8doors'
             time='April 2022 – June 2023'
             address='Remote'
             work={[
