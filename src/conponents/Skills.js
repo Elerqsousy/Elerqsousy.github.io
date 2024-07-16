@@ -3,8 +3,11 @@ import React from 'react';
 
 const skillList = [
   '<html>',
+  'GraphQL',
   'JavaScript',
   'React',
+  'React Native',
+  'Expo',
   'Next.js',
   'Redux',
   'jQuery',

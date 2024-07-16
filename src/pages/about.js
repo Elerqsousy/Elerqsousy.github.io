@@ -55,25 +55,21 @@ const about = () => {
                 About me
               </h2>
               <p className='font-medium '>
-                Hi, I am Rizk, a highly ambitious, self-motivated, and driven
-                software engineer based in Egypt. With a strong educational
-                background, I successfully completed the Microverse Full-Stack
-                Web Development program in 2023 and have been actively working in the field
-                since early 2022.
+                Hi, I am Mahmoud. A Full-Stack Developer, an Entrepreneur, and a
+                cook! With 4 years of hands-on experience in Ruby on Rails,
+                Ruby, PostgreSQL, React.js, Next.js, Redux, HTML, and CSS. I
+                have developed multiple major products both in Web and Mobile
+                domains.
               </p>
               <p className='font-medium my-4'>
-                Prior to my software engineering journey, I gained valuable
-                experience as a User and Market Research Consultant,
-                accumulating seven years of expertise in areas such as Business,
-                Entrepreneurship, Social Development, and Training.
+                I am a co-founder of 2 startups; an open-source recruitment
+                platform dedicated to connecting refugees and individuals
+                affected by international conflicts to opportunities from all
+                around the world, and a catering business where I am leading the
+                design and development of the plaatform and food recipies.
               </p>
               <p className='font-medium '>
-                My unwavering belief in continuous growth drives me to
-                constantly push the boundaries of what is possible in the
-                technology realm. I possess a genuine passion for technology and
-                its transformative potential. As I embark on my career journey,
-                I eagerly anticipate the opportunities that lie ahead and remain
-                receptive to new prospects that may arise.
+                Seeking new challenges and growth opportunities!
               </p>
             </div>
 
@@ -83,7 +79,7 @@ const about = () => {
                   className='inline-block text-6xl font-bold text-primary dark:text-primaryDark
                 md:flex md:justify-center md:w-full md:text-6xl sm:text-5xl xs:text-4xl'
                 >
-                  <AnimatedNumbers value={2} />+
+                  <AnimatedNumbers value={4} />+
                 </span>
                 <h2
                   className='text-xl font-medium capitalize text-dark/75 dark:text-light/75

@@ -65,23 +65,32 @@ const Experience = () => {
           md:mt-3 xs:mt-4 xs:w-[2px] md:left-[28px] xs:left-[19px]'
         />
         <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
-          <Details
-            position='Full Stack Web Developer'
-            company='Self-Employed'
+        <Details
+            position='Co-founder & Full Stack Developer'
+            company='Slow Fire'
             companyLink='https://www.linkedin.com/in/mahmoud-rizk-elerqsousy/'
-            time='January 2022 – Present'
-            address='Remote'
+            time='March 2024 – Present'
+            address='Egypt, Remote'
             work={[
-              'Developed 40+ projects with diverse tech stacks, including Ruby on Rails, React.js, Next.js, Redux, JavaScript, TypeScript, HTML5, CSS3, TailwindCSS, Sass, various libraries, custom-built APIs, open-source APIs, and more.',
-              'Collaborated with international teams on design and development processes.',
-              'Conducted code reviews, facilitated live coding sessions, and embraced pair- programming promoting collaborative problem-solving, knowledge sharing, and continuous improvement.',
+              'Food and beverage startup offering high-quality homemade food products through a mobile app.'
+            ]}
+          />
+          <Details
+            position='Founder & Full Stack Developer'
+            company='Hire Hopefuls'
+            companyLink='https://www.linkedin.com/in/mahmoud-rizk-elerqsousy/'
+            time='June 2023 – Present'
+            address='Egypt, Remote'
+            work={[
+              'Hire  Hopefuls is a Social Startup aiming to close the gap between Skilled Refugees and Displaced People worldwide, and their job markets.'
             ]}
           />
           <Details
             position='Front-End Web Developer'
-            company='8doors'
+            company='Sifi'
+            companyLink='https://www.sifi.app/'
             time='April 2022 – June 2023'
-            address='Remote'
+            address='Saudi Arabia, Remote'
             work={[
               'Developed 100+ complex responsive pages with different access and authorization levels using testable reusable components built with React, Next.Js, JavaScript, Typescript, Redux, Tailwind, and Sass for user and admin portals in less than 8 months, saving 6 months of development time.',
               'Designed and optimized an automated Integration system using Redux Toolbox, Redux-Saga, and Context API for internally developed API endpoints, and global authorization and authentication across all portals.',
@@ -92,7 +101,7 @@ const Experience = () => {
             company='Apace Refunds'
             companyLink='https://apacerefunds.com/'
             time='March 2022 – July 2022'
-            address='Remote'
+            address='United States, Remote'
             work={[
               'Led the Development of the Merchant Portal; main view, using React, Redux Less, and ANT Design.',
               'Suggested and implemented a new code review policy to improve code quality and foster cross-team alignment.',
@@ -104,7 +113,7 @@ const Experience = () => {
             company='Microverse'
             companyLink='https://www.microverse.org/'
             time='February 2022 – November 2023'
-            address='Remote'
+            address='United States, Remote'
             work={[
               'Mentored and supported 6 junior web developers through regular code reviews and weekly consultation meetings, providing technical guidance and fostering their professional growth.',
               'Identified opportunities to enhance code quality and performance by proposing improvements to code organization, ensuring efficient and optimized development processes.',
